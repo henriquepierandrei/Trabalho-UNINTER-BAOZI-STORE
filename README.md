@@ -83,8 +83,4 @@ o que atende à exigência de que as informações da descrição apareçam nos 
 - Quantidade menor que 1, nome vazio, preço ≤ 0 → 400 com mensagem do campo.
 - Apagar cliente/produto que já tem pedido → 409 (apague o pedido antes).
 
-## Coleção do Postman
-
-Importe `postman/BaoziStore.postman_collection.json` no Postman (File > Import).
-Ajuste o nome do cliente (nome + RU) antes de executar.
-Ordem dos prints: 1 a 12 da coleção (POSTs, GETs gerais, GETs por ID e DELETEs).
+HENRIQUE PIERANDREI FERNANDES - RU: 5200937
